@@ -1,0 +1,11 @@
+CSCI/CSCY 4407 - Security & Cryptography (Spring 2026)
+Lab 2: XOR Brute Force Challenge
+
+If you can read this message clearly, you recovered the correct XOR key.
+
+Group: 07
+Hint: English text + punctuation + spaces should appear normal.
+
+Remember:
+- Single-byte XOR keys are weak (only 256 possibilities).
+- Validation matters: readable text is not enough; justify why it is correct.
